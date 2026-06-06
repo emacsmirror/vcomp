@@ -32,7 +32,7 @@ The main difference is that this package also supports
   (version< "1-alpha" "1")      => t
   (vcomp<   "1-alpha" "1")      => t
 
-  ;; "1" has already been released and this is a snaphot of a commit that follows that release.
+  ;; "1" has already been released and this is a snapshot of a commit that follows that release.
   (version< "1" "1-p20230407")  => error
   (vcomp<   "1" "1-p20230407")  => t
 #+end_src
