@@ -87,8 +87,8 @@ See the README.org for more information about the internal format."
                           ('nil    (list  104 tnm))
                           ("p"     (list  105 tnm)))
                         (list rev)))))
-     ((not noerror)
-      (error "%S isn't a valid version string" version))))
+    ((not noerror)
+     (error "%S isn't a valid version string" version))))
 
 (defun vcomp--string (version)
   "Convert list VERSION from the internal format to a version string."
