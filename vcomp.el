@@ -7,6 +7,7 @@
 ;; Homepage: https://github.com/tarsius/vcomp
 ;; Keywords: versions
 
+;; Package-Version: 1.2.1
 ;; Package-Requires: ((emacs "26.1"))
 
 ;; SPDX-License-Identifier: GPL-3.0-or-later

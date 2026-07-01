@@ -1,4 +1,8 @@
 # -*- mode: org -*-
+* v1.2.1    2026-07-01
+
+- Fixed a typo and whitespace.
+
 * v1.2.0    2026-05-01
 
 - ~N.0~ is now treated as equal to ~N~.  This can be reverted by setting
