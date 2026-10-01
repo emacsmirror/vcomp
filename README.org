@@ -123,3 +123,9 @@ Function ~vcomp-normalize~ can be used to normalize a version string.
   0-11A-Alpha0-r1 => 0.11a_alpha-r1
   2.3d-BETA5      => 2.3d_beta5
 #+end_src
+
+#+html: <br><br>
+#+html: <a href="https://github.com/tarsius/vcomp/actions/workflows/compile.yml"><img alt="Compile" src="https://github.com/tarsius/vcomp/actions/workflows/compile.yml/badge.svg"/></a>
+#+html: <a href="https://snapshots.melpa.org/#/vcomp"><img alt="MELPA Snapshots" src="https://snapshots.melpa.org/packages/vcomp-badge.svg"/></a>
+#+html: <a href="https://releases.melpa.org/#/vcomp"><img alt="MELPA Releases" src="https://releases.melpa.org/packages/vcomp-badge.svg"/></a>
+#+html: <a href="https://emacsair.me/human"><img alt="human made" src="https://emacsair.me/assets/badges/human.svg"/></a>
